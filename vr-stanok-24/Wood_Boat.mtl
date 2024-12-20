@@ -1,0 +1,92 @@
+# Blender MTL File: 'Wood_Boat.blend'
+# Material Count: 8
+
+newmtl Rope.006
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.400783 0.084197
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Sail
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.300000 0.300000 0.300000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump /Users/pandarun/Blender/Texture_Materials/Cloth/Fabric001_2K-JPG/Fabric001_2K_Normal.jpg
+map_Kd /Users/pandarun/Blender/Texture_Materials/Cloth/Fabric001_2K-JPG/Fabric001_2K_Color.jpg
+map_Ns /Users/pandarun/Blender/Texture_Materials/Cloth/Fabric001_2K-JPG/Fabric001_2K_Roughness.jpg
+
+newmtl Water
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.076471 0.371461 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Water.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Wood_Boat
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump /Users/pandarun/Blender/Texture_Materials/Wood/Wood035_2K-JPG/Wood035_2K_Normal.jpg
+map_Ns /Users/pandarun/Blender/Texture_Materials/Wood/Wood035_2K-JPG/Wood035_2K_Roughness.jpg
+
+newmtl Wood_Boat.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump /Users/pandarun/Blender/Texture_Materials/Wood/Wood035_2K-JPG/Wood035_2K_Normal.jpg
+map_Kd /Users/pandarun/Blender/Texture_Materials/Wood/Wood035_2K-JPG/Wood035_2K_Color.jpg
+map_Ns /Users/pandarun/Blender/Texture_Materials/Wood/Wood035_2K-JPG/Wood035_2K_Roughness.jpg
+
+newmtl Wood_Boat_Fence
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump /Users/pandarun/Blender/Texture_Materials/Wood/Wood035_2K-JPG/Wood035_2K_Normal.jpg
+map_Ns /Users/pandarun/Blender/Texture_Materials/Wood/Wood035_2K-JPG/Wood035_2K_Roughness.jpg
+
+newmtl Wood_Boat_Fence.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
